@@ -10,7 +10,7 @@ Neste caso estamos usando uma service que faz todo o trabalho onde recupera a pa
 
 A forma de usar é criar um objeto do tipo language e usar seu vetor para recuperar os dados.
 
-Exemplo de código de inicialização da insternacionalização.
+Exemplo de código de inicialização da internacionalização.
 
 ``` Código
 $scope.translate = internacionalization.getObjTranslate('en-US'); 
